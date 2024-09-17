@@ -3,6 +3,7 @@
 * Ссылки на датасеты для обучения:
   - https://image-net.org
   - https://www.inaturalist.org
+  - https://app.wildlifeinsights.org
 
 * Сущности, которые может распознавать модель:
   - бобер (?)
